@@ -32,6 +32,7 @@ summary(snaps2015)
 
 snaps2016 <- read.csv("2016 snaps.csv", stringsAsFactors = F)
 summary(snaps2016)
+glimpse(snaps2016)
 ```
 
 ```{r}
