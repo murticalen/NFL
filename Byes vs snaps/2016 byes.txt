@@ -1,0 +1,10 @@
+Schedule 	Teams
+Week4 	Green Bay, Philadelphia
+Week5 	Jacksonville, Kansas City, New Orleans, Seattle
+Week6 	Minnesota, Tampa Bay
+Week7 	Carolina, Dallas
+Week8 	Baltimore, Los Angeles, Miami, NY Giants, Pittsburgh, San Francisco
+Week9 	Arizona, Chicago, Cincinnati, Houston, New England, Washington
+Week10 	Buffalo, Detroit, Indianapolis, Oakland
+Week11 	Atlanta, Denver, NY Jets, San Diego
+Week13 	Cleveland, Tennessee

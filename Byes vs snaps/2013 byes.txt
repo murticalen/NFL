@@ -1,0 +1,10 @@
+Schedule 	Teams
+Week4 Panthers, Packers
+Week5 Vikings, Steelers, Buccaneers, Redskins
+Week6 Falcons, Dolphins
+Week7 Saints, Raiders
+Week8 Ravens, Bears, Texans, Colts, Chargers, Titans
+Week9 Cardinals, Broncos, Lions, Jaguars, Giants, 49ers
+Week10 	Browns, Chiefs, Patriots, Jets
+Week11 	Cowboys, Rams
+Week12 	Bills, Bengals, Eagles, Seahawks
